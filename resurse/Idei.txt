@@ -1,0 +1,16 @@
+Principiu pentru conexiune.
+Chat-ul poate fi o munca prea mare.
+Dupa fiecare runda fiecarui jucator ii va fi updata tabela cu scorul celorlalti jucatori
+Pentru updatare poate fi folosit un observer.
+Tabela poate fi trimisa ca JSON pentru simplitate.
+De cautat daca exista o metoda de ordonare a unui JSON dupa valori.
+Conexiunea poate presupune o problema pentru conexiunea in camin sau la reteaua EDU.
+	- probabil sa fie necesar sa modificam tabela de rutare a ruterului cel mai sus din ierarhie, ceea la ce nu avem acces
+	- exista totusi sansa ca C# sa aiba o metoda sa facem bypass la problema asta.
+Pe moment incerc sa implementez o aplicatie simpla de chat.
+Codul pentru conectare la camera se autogenereaza prin transformarea ip-ului intr-un cod. Codul pus in client va decoda astfel adresa ip.
+Metoda de codificare/decodificare posibila:
+	-transformarea fiecarei parti de ip in reprezentarea hexa. (ex. 192.168.0.1 = C0A80001)
+
+
+De urcat pe github
