@@ -1,0 +1,11 @@
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Verification\bin\Debug\Verification.exe.config
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Verification\bin\Debug\Verification.exe
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Verification\bin\Debug\Verification.pdb
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Verification\obj\Debug\Verification.csproj.AssemblyReference.cache
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Verification\obj\Debug\Verification.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Verification\obj\Debug\Verification.csproj.CoreCompileInputs.cache
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Verification\obj\Debug\Verification.exe
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Verification\obj\Debug\Verification.pdb
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Verification\bin\Debug\Connection.dll
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Verification\bin\Debug\Connection.pdb
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Verification\obj\Debug\Verification.csproj.CopyComplete
