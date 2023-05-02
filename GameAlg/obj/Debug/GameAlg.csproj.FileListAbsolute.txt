@@ -1,0 +1,10 @@
+C:\Ingineria Programarii\Project\GameAlg\GameAlg\bin\Debug\GameAlg.exe.config
+C:\Ingineria Programarii\Project\GameAlg\GameAlg\bin\Debug\GameAlg.exe
+C:\Ingineria Programarii\Project\GameAlg\GameAlg\bin\Debug\GameAlg.pdb
+C:\Ingineria Programarii\Project\GameAlg\GameAlg\obj\Debug\GameAlg.csproj.AssemblyReference.cache
+C:\Ingineria Programarii\Project\GameAlg\GameAlg\obj\Debug\GameAlg.Game.resources
+C:\Ingineria Programarii\Project\GameAlg\GameAlg\obj\Debug\GameAlg.Properties.Resources.resources
+C:\Ingineria Programarii\Project\GameAlg\GameAlg\obj\Debug\GameAlg.csproj.GenerateResource.cache
+C:\Ingineria Programarii\Project\GameAlg\GameAlg\obj\Debug\GameAlg.csproj.CoreCompileInputs.cache
+C:\Ingineria Programarii\Project\GameAlg\GameAlg\obj\Debug\GameAlg.exe
+C:\Ingineria Programarii\Project\GameAlg\GameAlg\obj\Debug\GameAlg.pdb

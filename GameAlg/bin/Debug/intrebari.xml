@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone = "no" ?>
+<!DOCTYPE questions SYSTEM "vld.dtd">
+
+<questions>
+    <question id="1">
+        <text>Ce înseamnă XML?</text>
+		<answer>Extensible Markup Language</answer>
+		<choices>
+		  <choice>Exchangeable Media Library</choice>
+		  <choice>Extensible Markup Language</choice>
+		  <choice>Extended Multimedia Language</choice>
+		  <choice>Extended Markup Language</choice>
+		</choices>
+    </question>
+	<question id="2">
+        <text>Ce face atributul color in CSS?</text>
+		<answer>Modifică culoarea textului</answer>
+		<choices>
+		  <choice>Modifică culoarea borderului</choice>
+		  <choice>Modifică culoarea fundalului</choice>
+		  <choice>Modifică culoarea textului</choice>
+		  <choice>Modifică culoarea cursorului</choice>
+		</choices>
+    </question>
+</questions>
