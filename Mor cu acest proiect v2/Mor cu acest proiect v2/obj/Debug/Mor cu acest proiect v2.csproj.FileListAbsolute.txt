@@ -1,0 +1,11 @@
+D:\Facultate\An3\Sem2\IP\Proiect\Mor cu acest proiect v2\Mor cu acest proiect v2\bin\Debug\Mor cu acest proiect v2.exe.config
+D:\Facultate\An3\Sem2\IP\Proiect\Mor cu acest proiect v2\Mor cu acest proiect v2\bin\Debug\Mor cu acest proiect v2.exe
+D:\Facultate\An3\Sem2\IP\Proiect\Mor cu acest proiect v2\Mor cu acest proiect v2\bin\Debug\Mor cu acest proiect v2.pdb
+D:\Facultate\An3\Sem2\IP\Proiect\Mor cu acest proiect v2\Mor cu acest proiect v2\bin\Debug\Connection.dll
+D:\Facultate\An3\Sem2\IP\Proiect\Mor cu acest proiect v2\Mor cu acest proiect v2\bin\Debug\Connection.pdb
+D:\Facultate\An3\Sem2\IP\Proiect\Mor cu acest proiect v2\Mor cu acest proiect v2\obj\Debug\Mor cu acest proiect v2.csproj.AssemblyReference.cache
+D:\Facultate\An3\Sem2\IP\Proiect\Mor cu acest proiect v2\Mor cu acest proiect v2\obj\Debug\Mor cu acest proiect v2.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\An3\Sem2\IP\Proiect\Mor cu acest proiect v2\Mor cu acest proiect v2\obj\Debug\Mor cu acest proiect v2.csproj.CoreCompileInputs.cache
+D:\Facultate\An3\Sem2\IP\Proiect\Mor cu acest proiect v2\Mor cu acest proiect v2\obj\Debug\Mor cu acest proiect v2.csproj.CopyComplete
+D:\Facultate\An3\Sem2\IP\Proiect\Mor cu acest proiect v2\Mor cu acest proiect v2\obj\Debug\Mor cu acest proiect v2.exe
+D:\Facultate\An3\Sem2\IP\Proiect\Mor cu acest proiect v2\Mor cu acest proiect v2\obj\Debug\Mor cu acest proiect v2.pdb

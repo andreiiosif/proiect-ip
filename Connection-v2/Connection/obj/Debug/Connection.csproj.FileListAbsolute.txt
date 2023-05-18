@@ -1,0 +1,12 @@
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Connection\bin\Debug\Connection.dll
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Connection\bin\Debug\Connection.pdb
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Connection\obj\Debug\Connection.csproj.AssemblyReference.cache
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Connection\obj\Debug\Connection.csproj.CoreCompileInputs.cache
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Connection\obj\Debug\Connection.dll
+D:\Facultate\An3\Sem2\IP\Proiect\Connection\Connection\obj\Debug\Connection.pdb
+D:\Facultate\An3\Sem2\IP\Proiect\Connection-v2\Connection\bin\Debug\Connection.dll
+D:\Facultate\An3\Sem2\IP\Proiect\Connection-v2\Connection\bin\Debug\Connection.pdb
+D:\Facultate\An3\Sem2\IP\Proiect\Connection-v2\Connection\obj\Debug\Connection.csproj.AssemblyReference.cache
+D:\Facultate\An3\Sem2\IP\Proiect\Connection-v2\Connection\obj\Debug\Connection.csproj.CoreCompileInputs.cache
+D:\Facultate\An3\Sem2\IP\Proiect\Connection-v2\Connection\obj\Debug\Connection.dll
+D:\Facultate\An3\Sem2\IP\Proiect\Connection-v2\Connection\obj\Debug\Connection.pdb

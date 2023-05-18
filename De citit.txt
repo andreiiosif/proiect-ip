@@ -1,0 +1,28 @@
+Am reusit sa fac sa mearga conexiunea.
+Mai jos o sa explic cum functioneaza, insa pe moment nu sunt comentarii in cod.
+
+Connection-v2.
+Se pot instantia fie un server sau un client cu constructorul in functie de parametrul type, simplu "server", respectiv "client". Aveti in main un model despre cum pot fi apelate functiile. lipseste testarea de transmitere de mesaje de la server la client.
+
+O sa-l modific in viitor constructorul intrucat acum este facut doar pentru testari.
+Nu am testat pe un form, daca vreti sa luati codul sa va jucati si sa testati intr-un form ar fi minunat.
+
+Dupa ce instantiati fie serverul fie clientul, trebuie sa dati StartReceiving() pentru a porni ascultarea de mesaje.
+Dupa ce un mesaj este primit acesta este pus intr-o coada.
+Pentru a lua un mesaj din varful cozii folositi GetMessage();
+
+Pentru a trimite un mesaj folositi SendData(string message).
+Problema: Metoda folosind doar mesajul este folosita doar in cazul clientului
+Pentru server a trebuit sa supraincarc metoda sa primeasca si socket-ul clientului la care trimite, si nu prea poate fi obtinut din exterior.
+Totusi nu are sens ca serverul sa trimita un mesaj la doar un singur client in mod specific infara de momentul in care se configureaza niste parametrii,
+dar de asta ma voi ocupa tot eu. Momentan nu am toate detaliile despre cum va arata proiectul ca sa pot implementa asta
+
+Dar daca se vrea totusi sa se trimita mesaje de la server la clienti, exista metoda SendDataAll(string message), care va trimite un mesaj la toti clientii conectati la server
+ceea ce inseamna ca merge si pentru un singur client conectat.
+
+Dupa ce terminati de lucrat cu clasa de conexiune folositi metoda CloseConnection() pentru a inchide conexiunele, altfel veti primi niste exceptii, pe unele le-am tratat dar pot aparea si altele.
+
+Overall necesita mai mult lucru dar pentru niste lucruri de baza functioneaza.
+
+Mor cu acest proiect v2.
+Se poate ignora fiserul acesta, pur si simplu l-am folosit sa testez pe el conexiunea.
