@@ -6,10 +6,25 @@ namespace GameAlg
 {
     class Question
     {
-        private int _id { get; }
-        private string _text { get; }
-        private string _answer { get; }
-        private List<String> _choices { get; }
+        private int _id;
+        private string _text;
+        private string _answer;
+        private List<String> _choices;
+
+        public string Text
+        {
+            get => _text;
+        }
+
+        public string Answer
+        {
+            get => _answer;
+        }
+
+        public List<String> Choices
+        {
+            get => _choices;
+        }
 
         public Question(int id, string text, string answer, List<String> choices)
         {
@@ -23,21 +38,6 @@ namespace GameAlg
         {
             var random = new Random();
             return _choices.OrderBy(x => random.Next()).ToList();
-        }
-
-        public string GetText()
-        {
-            return _text;
-        }
-
-        public string GetAnswer()
-        {
-            return _answer;
-        }
-
-        public List<String> GetChoices()
-        {
-            return _choices;
         }
     }
 }

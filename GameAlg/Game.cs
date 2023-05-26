@@ -30,7 +30,7 @@ namespace GameAlg
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            LoadQuestions("intrebari.xml"); // incarcare intrebari
+            LoadQuestions("questions.xml"); // incarcare intrebari
             totalQuestionsLabel.Text = _questionsNumber.ToString(); // update la numarul total de intrebari in functie de cate intrebari sunt in XML
             StartTimer();
             DisplayCurrentQuestion();
@@ -47,8 +47,10 @@ namespace GameAlg
                 int id = int.Parse(questionNode.Attributes["id"].Value);
                 string text = questionNode.SelectSingleNode("text").InnerText;
                 string answer = questionNode.SelectSingleNode("answer").InnerText;
+
                 List<string> choices = new List<string>();
                 XmlNodeList choiceNodes = questionNode.SelectNodes("choices/choice");
+
                 foreach (XmlNode choiceNode in choiceNodes)
                 {
                     choices.Add(choiceNode.InnerText);
@@ -69,7 +71,7 @@ namespace GameAlg
             questionNrLabel.Text = (_currentQuestionIndex + 1).ToString();
             Question currentQuestion = _questions[_currentQuestionIndex];
 
-            questionLabel.Text = currentQuestion.GetText();
+            questionLabel.Text = currentQuestion.Text;
             questionLabel.AutoSize = true;
 
             // populare lista cu alegeriv - alegerile sunt randomizate
@@ -103,7 +105,7 @@ namespace GameAlg
             if (selectedAnswer != null)
             {
                 Question currentQuestion = _questions[_currentQuestionIndex];
-                string correctAnswer = currentQuestion.GetAnswer();
+                string correctAnswer = currentQuestion.Answer;
 
                 if (selectedAnswer.Text == correctAnswer)
                 {
@@ -116,6 +118,7 @@ namespace GameAlg
             _currentQuestionIndex++;
             if (_currentQuestionIndex == _questionsNumber)
             {
+                _timer.Stop();
                 MessageBox.Show("Joc terminat! Scor total: " + _userScore, "Felicitari!", MessageBoxButtons.OK);
             }
             else
@@ -135,6 +138,7 @@ namespace GameAlg
         private void TimerTick(object sender, EventArgs e)
         {
             _remainingSeconds--;
+
             if (_remainingSeconds >= 0)
             {
                 secondsLeftLabel.Text = _remainingSeconds.ToString();

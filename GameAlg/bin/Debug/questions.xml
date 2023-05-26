@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" standalone = "no" ?>
+<!DOCTYPE questions SYSTEM "vld.dtd">
+
+<questions>
+    <question id="1">
+        <text> Cine este inventatorul primului calculator funcțional?</text>
+		<answer>Konrad Zuse</answer>
+		<choices>
+		  <choice>John Mauchley</choice>
+		  <choice>Konrad Zuse</choice>
+		  <choice>John von Neumann</choice>
+		  <choice>Freddy Williams</choice>
+		</choices>
+    </question>
+	<question id="2">
+        <text>Prin ce se distinge calculatorul ENIAC?</text>
+		<answer>primul calculator electronic de uz general</answer>
+		<choices>
+		  <choice>primul calculator comercial</choice>
+		  <choice>primul calculator electronic cu tranzistoare</choice>
+		  <choice>primul calculator electronic de uz general</choice>
+		  <choice>primul calculator de uz militar</choice>
+		</choices>
+    </question>
+	<question id="3">
+        <text>Ce calculator e considerat primul calculator comercial?</text>
+		<answer>Leo I</answer>
+		<choices>
+		  <choice>Z3</choice>
+		  <choice>ENIAC</choice>
+		  <choice>Mark I</choice>
+		  <choice>Leo I</choice>
+		</choices>
+    </question>
+	<question id="4">
+        <text>Prin ce a rămas cunoscut UNIVAC?</text>
+		<answer>calculul tabelelor balistice pentru armata SUA</answer>
+		<choices>
+		  <choice>calculul tabelelor balistice pentru armata SUA</choice>
+		  <choice>predicția rezultatului alegerilor prezidențiale din SUA din 1952</choice>
+		  <choice>primul calculator produs în serie</choice>
+		  <choice>primul calculator binar</choice>
+		</choices>
+    </question>
+	<question id="5">
+        <text>Care din următoarele limbaje din anii 50 este încă folosit pentru aplicații ştiințifice şi de calcul numeric?</text>
+		<answer>Fortran</answer>
+		<choices>
+		  <choice>Fortran</choice>
+		  <choice>Lisp</choice>
+		  <choice>Algol</choice>
+		  <choice>Cobol</choice>
+		</choices>
+    </question>
+	<question id="6">
+        <text>Ce spune legea lui Moore?</text>
+		<answer>complexitatea hardware-ului se dublează la fiecare doi ani</answer>
+		<choices>
+		  <choice>complexitatea hardware-ului se dublează la fiecare doi ani</choice>
+		  <choice>adăugarea de personal la un proiect întârziat îl va întârzia şi mai mult</choice>
+		  <choice>80% din defecte provin din 20% din cod</choice>
+		  <choice>software-ul industrial necesită de 10 ori mai mult efort decât software-ul academic</choice>
+		</choices>
+    </question>
+	<question id="7">
+        <text>Care este primul limbaj de programare orientat obiect?</text>
+		<answer>Simula</answer>
+		<choices>
+		  <choice>Simula</choice>
+		  <choice>C</choice>
+		  <choice>C++</choice>
+		  <choice>Java</choice>
+		</choices>
+    </question>
+	<question id="8">
+        <text>În ce an a fost propus termenul de „Ingineria Programării”?</text>
+		<answer>1968</answer>
+		<choices>
+		  <choice>1958</choice>
+		  <choice>1968</choice>
+		  <choice>1978</choice>
+		  <choice>1988</choice>
+		</choices>
+    </question>
+	<question id="9">
+        <text>Unde s-a folosit pentru prima dată interfața grafică cu utilizatorul bazată pe ferestre şi icoane?</text>
+		<answer>calculatorul Alto de la Xerox PARC</answer>
+		<choices>
+		  <choice>calculatorul Alto de la Xerox PARC</choice>
+		  <choice>Microsoft Windows</choice>
+		  <choice>Apple Macintosh</choice>
+		  <choice>calculatorul IBM 5100 Portable Computer</choice>
+		</choices>
+    </question>
+	<question id="10">
+        <text>În ce an a apărut sistemul de operare Unix?</text>
+		<answer>1970</answer>
+		<choices>
+		  <choice>1960</choice>
+		  <choice>1970</choice>
+		  <choice>1981</choice>
+		  <choice>1991</choice>
+		</choices>
+    </question>
+	<question id="11">
+        <text> Care este calculatorul care a condus la revoluția „home computers” din anii 80?</text>
+		<answer>Sinclair ZX Spectrum</answer>
+		<choices>
+		  <choice>Commodore 64</choice>
+		  <choice>IBM PC</choice>
+		  <choice>Altair 8800</choice>
+		  <choice>Sinclair ZX Spectrum</choice>
+		</choices>
+    </question>
+	<question id="12">
+        <text> Când a fost fondat Microsoft?</text>
+		<answer>1975</answer>
+		<choices>
+		  <choice>1965</choice>
+		  <choice>1975</choice>
+		  <choice>1985</choice>
+		  <choice>1995</choice>
+		</choices>
+    </question>
+	<question id="13">
+        <text> Când a fost creat „world-wide-web”-ul?</text>
+		<answer>1989</answer>
+		<choices>
+		  <choice>1959</choice>
+		  <choice>1969</choice>
+		  <choice>1979</choice>
+		  <choice>1989</choice>
+		</choices>
+    </question>
+	<question id="14">
+        <text> Care a fost primul browser grafic WWW?</text>
+		<answer>Mosaic</answer>
+		<choices>
+		  <choice>Mosaic</choice>
+		  <choice>Netscape Navigator</choice>
+		  <choice>Gopher</choice>
+		  <choice>Internet Explorer</choice>
+		</choices>
+    </question>
+	<question id="15">
+        <text> Când a apărut limbajul C#?</text>
+		<answer>1989</answer>
+		<choices>
+		  <choice>1995</choice>
+		  <choice>2002</choice>
+		  <choice>2003</choice>
+		  <choice>2005</choice>
+		</choices>
+    </question>
+	<question id="16">
+        <text> Care dintre următoarele este un șablon de proiectare de creare (creational pattern)?</text>
+		<answer>Singleton</answer>
+		<choices>
+		  <choice>Strategy</choice>
+		  <choice>Singleton</choice>
+		  <choice>Observer</choice>
+		  <choice>Decorator</choice>
+		</choices>
+    </question>
+	<question id="17">
+        <text> Ce sablon de proiectare  este folosit pentru a crea o familie de obiecte relaționate fără a specifica clasele lor concrete?</text>
+		<answer>Abstract Factory</answer>
+		<choices>
+		  <choice>Builer</choice>
+		  <choice>Prototype</choice>
+		  <choice>Factory Method</choice>
+		  <choice>Abstract Factory</choice>
+		</choices>
+    </question>
+	<question id="18">
+        <text> Care dintre următoarele este un șablon de proiectare structural (structural pattern)?</text>
+		<answer>Proxy</answer>
+		<choices>
+		  <choice>Proxy</choice>
+		  <choice>Command</choice>
+		  <choice>Iterator</choice>
+		  <choice>Mediator</choice>
+		</choices>
+    </question>
+	<question id="19">
+        <text> Ce șablon de proiectare este utilizat pentru a permite compunerea obiectelor într-o structură de arborescență și pentru a trata uniform obiectele individuale și compuse?</text>
+		<answer>Composite</answer>
+		<choices>
+		  <choice>Adapter</choice>
+		  <choice>Composite</choice>
+		  <choice>Observer</choice>
+		  <choice>Visitor</choice>
+		</choices>
+    </question>
+	<question id="20">
+        <text> Care dintre următoarele este un șablon de proiectare de comportament (behavioral pattern)?</text>
+		<answer>State</answer>
+		<choices>
+		  <choice>State</choice>
+		  <choice>Builder</choice>
+		  <choice>Factory Method</choice>
+		  <choice>Prototype</choice>
+		</choices>
+    </question>
+	<question id="21">
+        <text> Ce sablon de proiectare  este utilizat pentru a separa logica de afișare a unei clase de logica de afaceri a clasei respective?</text>
+		<answer>State</answer>
+		<choices>
+		  <choice>Facade</choice>
+		  <choice>Proxy</choice>
+		  <choice>Template Method</choice>
+		  <choice>MVVM</choice>
+		</choices>
+    </question>
+	<question id="22">
+        <text> Care dintre următoarele este un sablon de proiectare de comportament (behavioral pattern) care permite definirea unei familii de algoritmi și încapsularea fiecărui algoritm într-o clasă separată?</text>
+		<answer>Strategy</answer>
+		<choices>
+		  <choice>Singleton</choice>
+		  <choice>Strategy</choice>
+		  <choice>Observer</choice>
+		  <choice>Decorator</choice>
+		</choices>
+    </question>
+	<question id="23">
+        <text>Ce sablon de proiectare este utilizat pentru a crea un mecanism de subscriere-emitere între obiecte, astfel încât să fie notificate automat de orice schimbare de stare?</text>
+		<answer>Observer</answer>
+		<choices>
+		  <choice>Observer</choice>
+		  <choice>Prototype</choice>
+		  <choice>Factory Method</choice>
+		  <choice>Abstract Factory</choice>
+		</choices>
+    </question>
+	<question id="24">
+        <text>Care dintre următoarele limbaje de modelare este cel mai utilizat pentru a crea diagrame UML?</text>
+		<answer>C# nu este un limbaj de modelare</answer>
+		<choices>
+		  <choice>C# nu este un limbaj de modelare</choice>
+		  <choice>XML</choice>
+		  <choice>SQL</choice>
+		  <choice>HTML</choice>
+		</choices>
+    </question>
+	<question id="25">
+        <text>Care dintre următoarele diagrame UML este folosită pentru a reprezenta interacțiunile între obiectele unui sistem într-o anumită secvență de timp?</text>
+		<answer>Diagrama de secvență</answer>
+		<choices>
+		  <choice>Diagrama de activitate</choice>
+		  <choice>Diagrama de clasă</choice>
+		  <choice>Diagrama de secvență</choice>
+		  <choice>Diagrama de stare</choice>
+		</choices>
+    </question>
+	<question id="26">
+        <text>Ce reprezintă săgețile într-o diagramă de clasă UML?</text>
+		<answer>Relația de asociere</answer>
+		<choices>
+		  <choice>Relația de moștenire</choice>
+		  <choice>Relația de asociere</choice>
+		  <choice>Relația de agregare</choice>
+		  <choice>Relația de dependență</choice>
+		</choices>
+    </question>
+	<question id="27">
+        <text>Care dintre următoarele diagrame UML este folosită pentru a reprezenta structura statică a claselor și a relațiilor dintre ele?</text>
+		<answer>Relația de asociere</answer>
+		<choices>
+		  <choice>Diagrama de activitate</choice>
+		  <choice>Diagrama de clasă</choice>
+		  <choice>Diagrama de secvență</choice>
+		  <choice>Diagrama de stare</choice>
+		</choices>
+    </question>
+	<question id="28">
+        <text>Ce reprezintă un multiplicator într-o diagramă de clasă UML?</text>
+		<answer>Numărul de instanțe ale unei clase</answer>
+		<choices>
+		  <choice>Numărul de instanțe ale unei clase</choice>
+		  <choice>Tipul de relație între două clase</choice>
+		  <choice>Gradul de importanță a unei clase</choice>
+		  <choice>Gradul de abstractizare a unei clase</choice>
+		</choices>
+    </question>
+	<question id="29">
+        <text>Care dintre următoarele diagrame UML este folosită pentru a reprezenta dependențele și interacțiunile între obiectele unui sistem?</text>
+		<answer>Diagrama de activitate</answer>
+		<choices>
+		  <choice>Diagrama de activitate</choice>
+		  <choice>Diagrama de clasă</choice>
+		  <choice>Diagrama de secvență</choice>
+		  <choice>Diagrama de colaborare</choice>
+		</choices>
+    </question>
+	<question id="30">
+        <text>Ce reprezintă o asociere într-o diagramă de clasă UML?</text>
+		<answer>O relație între două clase care indică că una are o referință către cealaltă</answer>
+		<choices>
+		  <choice>O relație între două clase care indică că una are o referință către cealaltă</choice>
+		  <choice>O relație de moștenire între două clase</choice>
+		  <choice>O relație de compoziție între două clase</choice>
+		  <choice>O relație de agregare între două clase</choice>
+		</choices>
+    </question>
+	<question id="31">
+        <text>Care dintre următoarele diagrame UML este folosită pentru a reprezenta interacțiunile între obiectele unui sistem în cadrul unui scenariu specific?</text>
+		<answer>Diagrama de secvență</answer>
+		<choices>
+		  <choice>Diagrama de activitate</choice>
+		  <choice>Diagrama de clasă</choice>
+		  <choice>Diagrama de secvență</choice>
+		  <choice>Diagrama de stare</choice>
+		</choices>
+    </question>
+	<question id="32">
+        <text>Ce reprezintă o clasă într-o diagramă de clase?</text>
+		<answer>O entitate care conține date și comportament asociate</answer>
+		<choices>
+		  <choice>O metodă într-un program</choice>
+		  <choice>O entitate care conține date și comportament asociate</choice>
+		  <choice>O bibliotecă de cod</choice>
+		  <choice>Un modul de interacțiune între obiecte</choice>
+		</choices>
+    </question>
+	<question id="33">
+        <text>Ce reprezintă o asociere între două clase într-o diagramă de clase?</text>
+		<answer>O relație între obiectele celor două clase</answer>
+		<choices>
+		  <choice>O relație de moștenire</choice>
+		  <choice>O relație de agregare</choice>
+		  <choice>O relație de compoziție</choice>
+		  <choice>O relație între obiectele celor două clase</choice>
+		</choices>
+    </question>
+	<question id="34">
+        <text>Ce reprezintă multiplicatorul "*" într-o diagramă de clase?</text>
+		<answer>Multiplicitatea unei asocieri</answer>
+		<choices>
+		  <choice>Multiplicitatea unei asocieri</choice>
+		  <choice>Numărul de instanțe ale unei clase</choice>
+		  <choice>Gradul de importanță a unei clase</choice>
+		  <choice>Gradul de abstractizare a unei clase</choice>
+		</choices>
+    </question>
+	<question id="35">
+        <text>Ce reprezintă o metodă într-o diagramă de clase?</text>
+		<answer>O acțiune sau comportament asociat unei clase</answer>
+		<choices>
+		  <choice>O relație între două clase</choice>
+		  <choice>O acțiune sau comportament asociat unei clase</choice>
+		  <choice>O proprietate sau caracteristică a unei clase</choice>
+		  <choice>O instanță a unei clase</choice>
+		</choices>
+    </question>
+	<question id="36">
+        <text>Ce reprezintă o clasă abstractă într-o diagramă de clase?</text>
+		<answer> O clasă care nu poate fi instanțiată</answer>
+		<choices>
+		  <choice> O clasă care nu poate fi instanțiată</choice>
+		  <choice>O clasă care conține doar metode abstracte</choice>
+		  <choice>O clasă care nu are nicio metodă</choice>
+		  <choice>O clasă care nu poate fi moștenită</choice>
+		</choices>
+    </question>
+	<question id="37">
+        <text>Ce reprezintă o interfață într-o diagramă de clase?</text>
+		<answer>O clasă abstractă care poate fi implementată de alte clase</answer>
+		<choices>
+		  <choice>O clasă abstractă care poate fi implementată de alte clase</choice>
+		  <choice>O reprezentare grafică a unei clase într-o diagramă</choice>
+		  <choice>Un pachet de cod C# care poate fi reutilizat</choice>
+		  <choice>O legătură între două clase într-o diagramă</choice>
+		</choices>
+    </question>
+	<question id="38">
+        <text>Ce reprezintă o clasă derivată (subclasă) într-o diagramă de clase?</text>
+		<answer>O clasă care moștenește caracteristicile și comportamentul altei clase</answer>
+		<choices>
+		  <choice>O clasă care conține doar proprietăți</choice>
+		  <choice> O clasă care conține doar metode</choice>
+		  <choice>O clasă care moștenește caracteristicile și comportamentul altei clase</choice>
+		  <choice>O clasă care nu poate fi moștenită</choice>
+		</choices>
+    </question>
+	<question id="39">
+        <text>Ce reprezintă o clasă de bază (superclasă) într-o diagramă de clase?</text>
+		<answer>O clasă care este moștenită de alte clase</answer>
+		<choices>
+		  <choice>O clasă care conține doar metode statice</choice>
+		  <choice>O clasă care conține doar proprietăți</choice>
+		  <choice>O clasă care este moștenită de alte clase</choice>
+		  <choice>O clasă care nu poate fi moștenită</choice>
+		</choices>
+    </question>
+	<question id="40">
+        <text>Care dintre următoarele activități face parte din faza de analiză în dezvoltarea de software?</text>
+		<answer>Definirea cerințelor sistemului</answer>
+		<choices>
+		  <choice>Implementarea codului sursă</choice>
+		  <choice>Definirea cerințelor sistemului</choice>
+		  <choice>Testarea unitară a funcționalităților</choice>
+		  <choice>Optimizarea performanței aplicației</choice>
+		</choices>
+    </question>
+	<question id="41">
+        <text>Ce este un diagramă de cazuri de utilizare în faza de analiză?</text>
+		<answer>O reprezentare grafică a funcționalităților sistemului și a interacțiunilor cu utilizatorii săi</answer>
+		<choices>
+		  <choice>O reprezentare grafică a structurii claselor în sistem</choice>
+		  <choice>O reprezentare grafică a interacțiunilor între obiecte în sistem</choice>
+		  <choice>O reprezentare grafică a funcționalităților sistemului și a interacțiunilor cu utilizatorii săi</choice>
+		  <choice>O reprezentare grafică a fluxului de control în cadrul unei metode</choice>
+		</choices>
+    </question>
+	<question id="42">
+        <text>Care dintre următoarele reprezintă obiectivele fazei de analiză în dezvoltarea de software?</text>
+		<answer>Comunicarea și înțelegerea cerințelor și nevoilor utilizatorilor</answer>
+		<choices>
+		  <choice>Identificarea și specificarea detaliată a algoritmilor de implementare</choice>
+		  <choice>Definirea arhitecturii fizice a sistemului</choice>
+		  <choice>Evaluarea și selecția tehnologiilor și platformelor potrivite</choice>
+		  <choice>Comunicarea și înțelegerea cerințelor și nevoilor utilizatorilor</choice>
+		</choices>
+    </question>
+	<question id="43">
+        <text>Care dintre următoarele reprezintă o activitate specifică fazei de proiectare în dezvoltarea de software?</text>
+		<answer>Proiectarea arhitecturii și a structurii sistemului</answer>
+		<choices>
+		  <choice> Definirea cerințelor sistemului</choice>
+		  <choice>Implementarea funcționalităților în codul sursă</choice>
+		  <choice>Testarea și depanarea aplicației</choice>
+		  <choice>Proiectarea arhitecturii și a structurii sistemului</choice>
+		</choices>
+    </question>
+	<question id="44">
+        <text>Ce reprezintă diagrama de clasă în faza de proiectare?</text>
+		<answer>O reprezentare grafică a structurii claselor și a relațiilor dintre ele în sistem</answer>
+		<choices>
+		  <choice>O reprezentare grafică a fluxului de control în cadrul unei metode</choice>
+		  <choice>O reprezentare grafică a structurii claselor și a relațiilor dintre ele în sistem</choice>
+		  <choice> O reprezentare grafică a funcționalităților sistemului și a interacțiunilor cu utilizatorii săi</choice>
+		  <choice>O reprezentare grafică a interacțiunilor între obiecte în sistem</choice>
+		</choices>
+    </question>
+	<question id="45">
+        <text>Ce reprezintă diagrama de secvență în faza de proiectare?</text>
+		<answer>O reprezentare grafică a fluxului de control în cadrul unei metode</answer>
+		<choices>
+		  <choice>O reprezentare grafică a fluxului de control în cadrul unei metode</choice>
+		  <choice>O reprezentare grafică a structurii claselor și a relațiilor dintre ele în sistem</choice>
+		  <choice>O reprezentare grafică a funcționalităților sistemului și a interacțiunilor cu utilizatorii săi</choice>
+		  <choice>O reprezentare grafică a interacțiunilor între obiecte în sistem</choice>
+		</choices>
+    </question>
+	<question id="46">
+        <text>Ce reprezintă implementarea în faza de implementare în dezvoltarea de software?</text>
+		<answer>Transformarea designului și specificațiilor în codul sursă executabil</answer>
+		<choices>
+		  <choice>Documentarea detaliată a cerințelor sistemului</choice>
+		  <choice>Definirea cerințelor sistemului</choice>
+		  <choice>Testarea și depanarea aplicației</choice>
+		  <choice>Definirea arhitecturii și a structurii sistemului</choice>
+		</choices>
+    </question>
+	<question id="47">
+        <text>Care dintre următoarele reprezintă o practică recomandată în faza de implementare?</text>
+		<answer> Utilizarea regulilor și standardelor de codare</answer>
+		<choices>
+		  <choice>Utilizarea unui limbaj de programare diferit de C#</choice>
+		  <choice>Crearea unui cod sursă complex și greu de înțeles</choice>
+		  <choice>Utilizarea regulilor și standardelor de codare</choice>
+		  <choice>Ignorarea testării unitare a funcționalităților</choice>
+		</choices>
+    </question>
+	<question id="48">
+        <text>Ce reprezintă refactorizarea în faza de implementare?</text>
+		<answer> Îmbunătățirea structurii și calității codului existent</answer>
+		<choices>
+		  <choice>Adăugarea de noi funcționalități în aplicație</choice>
+		  <choice>Eliminarea erorilor și defectelor din codul sursă</choice>
+		  <choice>Îmbunătățirea structurii și calității codului existent</choice>
+		  <choice>Testarea și depanarea aplicației</choice>
+		</choices>
+    </question>
+	<question id="49">
+        <text>Ce este un IDE (Integrated Development Environment) în faza de implementare?</text>
+		<answer> Un instrument software care oferă un mediu integrat pentru dezvoltarea, testarea și depanarea aplicațiilor</answer>
+		<choices>
+		  <choice>Un limbaj de programare orientat obiect</choice>
+		  <choice> Un editor de text simplu pentru scrierea codului sursă</choice>
+		  <choice> Un instrument software care oferă un mediu integrat pentru dezvoltarea, testarea și depanarea aplicațiilor</choice>
+		  <choice>O metodă de testare a performanței aplicației</choice>
+		</choices>
+    </question>
+	<question id="50">
+        <text>Care dintre următoarele reprezintă o tehnică de gestionare a codului sursă în faza de implementare?</text>
+		<answer>Utilizarea unui sistem de control al versiunilor</answer>
+		<choices>
+		  <choice>Utilizarea unui sistem de control al versiunilor</choice>
+		  <choice>Ignorarea documentației și comentariilor în codul sursă</choice>
+		  <choice>Crearea unui singur fișier de cod sursă pentru întreaga aplicație</choice>
+		  <choice>Depanarea și testarea manuală a funcționalităților</choice>
+		</choices>
+    </question>
+	<question id="51">
+        <text>Care dintre următoarele reprezintă un obiectiv al fazei de testare în dezvoltarea de software?</text>
+		<answer>Identificarea și corectarea erorilor din aplicație</answer>
+		<choices>
+		  <choice>Scrierea codului sursă</choice>
+		  <choice>Identificarea și corectarea erorilor din aplicație</choice>
+		  <choice>Definirea cerințelor sistemului</choice>
+		  <choice>Documentarea funcționalităților sistemului</choice>
+		</choices>
+    </question>
+	<question id="52">
+        <text>Ce este testarea unitară în faza de testare?</text>
+		<answer>Testarea individuală a unităților de cod (metode, clase)</answer>
+		<choices>
+		  <choice>Testarea întregii aplicații în ansamblu</choice>
+		  <choice>Testarea interacțiunii între mai multe componente ale sistemului</choice>
+		  <choice>Testarea individuală a unităților de cod (metode, clase)</choice>
+		  <choice>Testarea performanței aplicației în condiții de stres</choice>
+		</choices>
+    </question>
+	<question id="53">
+        <text>Care dintre următoarele reprezintă o tehnică de testare a aplicațiilor?</text>
+		<answer>Verificarea funcționalităților prin analiză statică a codului</answer>
+		<choices>
+		  <choice>Verificarea manuală a codului sursă</choice>
+		  <choice>Verificarea funcționalităților prin analiză statică a codului</choice>
+		  <choice>Verificarea funcționalităților prin rularea manuală a aplicației</choice>
+		  <choice>Verificarea performanței prin observarea comportamentului utilizatorilor</choice>
+		</choices>
+    </question>
+	<question id="54">
+        <text>Ce reprezintă testarea integrată în faza de testare?</text>
+		<answer>Testarea interacțiunii între mai multe componente ale sistemului</answer>
+		<choices>
+		  <choice>Testarea individuală a unităților de cod</choice>
+		  <choice>Testarea interacțiunii între mai multe componente ale sistemului</choice>
+		  <choice>Testarea întregii aplicații în ansamblu</choice>
+		  <choice>Testarea performanței aplicației în condiții de stres</choice>
+		</choices>
+    </question>
+	<question id="55">
+        <text>Care dintre următoarele reprezintă o practică recomandată în faza de testare?</text>
+		<answer> Documentarea rezultatelor testelor și a defectelor identificate</answer>
+		<choices>
+		  <choice>Testarea doar a scenariilor de utilizare optimă a aplicației</choice>
+		  <choice>Testarea doar a scenariilor pozitive, ignorând cazurile de eroare</choice>
+		  <choice>Documentarea rezultatelor testelor și a defectelor identificate</choice>
+		  <choice>Ignorarea testării unitare a funcționalităților</choice>
+		</choices>
+    </question>
+	<question id="56">
+        <text>Ce reprezintă controlul versiunilor în dezvoltarea de software?</text>
+		<answer>Metoda de a gestiona și urmări modificările aduse codului sursă în timp</answer>
+		<choices>
+		  <choice>Procesul de monitorizare a timpului de lucru al dezvoltatorilor</choice>
+		  <choice>Metoda de a gestiona și urmări modificările aduse codului sursă în timp</choice>
+		  <choice>Testarea manuală a aplicației pentru a verifica funcționalitățile</choice>
+		  <choice>Documentarea cerințelor și specificațiilor sistemului</choice>
+		</choices>
+    </question>
+	<question id="57">
+        <text>Ce este dezvoltarea agilă în contextul dezvoltării software?</text>
+		<answer>O abordare iterativă și incrementală, concentrată pe adaptabilitate și colaborare</answer>
+		<choices>
+		  <choice>Un proces de dezvoltare linear și secvențial, cu o planificare detaliată</choice>
+		  <choice>O abordare iterativă și incrementală, concentrată pe adaptabilitate și colaborare</choice>
+		  <choice>Utilizarea unui limbaj de programare specific în dezvoltarea aplicațiilor</choice>
+		  <choice>Procesul de monitorizare a performanței aplicației în timpul utilizării</choice>
+		</choices>
+    </question>
+	<question id="58">
+        <text>Care dintre următoarele reprezintă beneficii ale testării automate în dezvoltarea de software?</text>
+		<answer>Creșterea eficienței și productivității dezvoltatorilor</answer>
+		<choices>
+		  <choice>Reducerea nevoii de a documenta cerințele sistemului</choice>
+		  <choice>Creșterea eficienței și productivității dezvoltatorilor</choice>
+		  <choice>Eliminarea nevoii de a efectua testare manuală a aplicație</choice>
+		  <choice>Asigurarea unei interfețe grafice atractivă pentru utilizatori</choice>
+		</choices>
+    </question>
+	<question id="59">
+        <text>Ce reprezintă codul curat în dezvoltarea de software?</text>
+		<answer>Codul sursă scris într-un mod clar, ușor de înțeles și de întreținut</answer>
+		<choices>
+		  <choice>Un stil de codare care prioritizează funcționalitatea în detrimentul clarității</choice>
+		  <choice>Absența oricărui tip de comentarii în codul sursă</choice>
+		  <choice>Utilizarea unor biblioteci externe în dezvoltarea aplicațiilor</choice>
+		  <choice>Codul sursă scris într-un mod clar, ușor de înțeles și de întreținut</choice>
+		</choices>
+    </question>
+	<question id="60">
+        <text>Ce reprezintă procesul de depanare (debugging) în dezvoltarea de software?</text>
+		<answer>Procesul de verificare a funcționalităților cheie ale aplicației</answer>
+		<choices>
+		  <choice>Procesul de testare a aplicației în medii diferite</choice>
+		  <choice>Procesul de eliminare a erorilor și defectelor din codul sursă</choice>
+		  <choice>Testarea performanței aplicației în condiții reale de utilizare</choice>
+		  <choice>Procesul de verificare a funcționalităților cheie ale aplicației</choice>
+		</choices>
+    </question>
+
+
+</questions>
